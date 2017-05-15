@@ -19,3 +19,6 @@ E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien\QuanLyThuVi
 E:\Tài liêu năm 3\Thực tập nhóm\tải lên github\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
 E:\Tài liêu năm 3\Thực tập nhóm\tải lên github\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
 E:\Tài liêu năm 3\Thực tập nhóm\tải lên github\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\tt_nhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\tt_nhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\tt_nhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
